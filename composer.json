@@ -1,9 +1,9 @@
 {
   "name": "aanro/pythondocx",
   "description": "aanro pythondocx.",
-  "keywords": ["framework", "aaron"],
+  "keywords": ["framework", "aanro"],
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "authors":[
     {
       "name":"aaron",
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-0": {
-        "aaron\\lib": "src/"
+        "aanro\\lib": "src/"
     }
   },
   "autoload-dev": {
